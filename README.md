@@ -7,3 +7,11 @@ After installing the .csv file, please put it into the same folder as **index.py
 
 
 So basically, the _INPUT DATA_ that I choose is the **Data.csv**
+
+## PROBLEM STATEMENT: 
+
+
+## QUESTIONS:
+
+#### Question 1:
+Print out the first 10 rows.
