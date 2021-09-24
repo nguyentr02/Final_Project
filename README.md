@@ -9,7 +9,7 @@ After installing the .csv file, please put it into the same folder as **index.py
 So basically, the _INPUT DATA_ that I choose is the **Data.csv**
 
 ## PROBLEM STATEMENT: 
-
+In this project, the Data is going to feedback from customers about hotels in several places. This project would help owners ,or researchers ,or customers to simplify the data and search for perfect hotels.  
 
 ## QUESTIONS:
 
