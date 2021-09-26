@@ -28,19 +28,23 @@ For example: <br>
 - Spain: 1 <br>
 - Austria: 3 
 #### Question 4:
-List out all hotels' address of a places. <br>
+List out all hotels' address of a places which is typed in. <br>
 For example: <br>
 In: Austria <br>
 Out: 
 - ... 
 #### Question 5:
-Print out the hotels that have highest, lowest average point.
+Print out the hotels that have highest, lowest average point. <br>
+If there are many hotels which have the same score, print them all.
+
+After that, type in an average score n (5.2 <= n <= 9.8). <br>
+Print out all hotels which have that average score.
 #### Question 6:
-
+List hotels' name by average score then sort it and print it out again.
 #### Question 7:
-
+Write the new list into a new .csv file called _HotelsPointbySteven_
 #### Question 8:
-
+According to several users, they think that the _Data.csv_ file is too large. Split it into two seperated .csv file called _Data1.csv_ and _Data2.csv_
 #### Question 9:
 
 #### Question 10:
