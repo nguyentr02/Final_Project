@@ -15,24 +15,26 @@ In this project, the Data is going to feedback from customers about hotels in se
 ## QUESTIONS:
 
 #### Question 1:
-Print out the first 10 rows.
+Print out the first 10 rows of hotels'address and its average point.
 #### Question 2:
-Print out number of hotels based on which country it is located at.
-For example: 
-- United Kingdom: 2
-- Spain: 1
-- Austria: 3
+Add a column call "Rec". If "No Negative Review" then the hotel is not going to be Reccommended. <br>
+For example: <br>
+s Gravesandestraat 55 Oost 1092 AA Amsterdam Netherlands(Ireland) -> _False_ <br>
+Then, print the last 5 rows.
 #### Question 3:
-List out all hotels' address of a places
-For example: 
-In: Austria
-Out: ...
-...
-
+Print out number of hotels based on which country it is located at. <br>
+For example: <br>
+- United Kingdom: 2 <br>
+- Spain: 1 <br>
+- Austria: 3 
 #### Question 4:
-
+List out all hotels' address of a places. <br>
+For example: <br>
+In: Austria <br>
+Out: 
+- ... 
 #### Question 5:
-
+Print out the hotels that have highest, lowest average point.
 #### Question 6:
 
 #### Question 7:
